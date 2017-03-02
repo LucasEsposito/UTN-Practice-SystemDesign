@@ -19,9 +19,6 @@ use <database>: cambia a la base de datos seleccionada
 
 insert into <table> (<param1>,…,<paramn>) values (<value1>,…,<valuen>)
 
-# Waffle
-[![Issues en waffle](https://waffle.io/dds-utn/2016-jm-group-07)](https://waffle.io/dds-utn/2016-jm-group-07)
-
 # Manejo de archivos
 [![Libreria externa para manejar archivos](https://commons.apache.org/proper/commons-io/javadocs/api-2.4/org/apache/commons/io/FileUtils.html)](https://commons.apache.org/proper/commons-io/javadocs/api-2.4/org/apache/commons/io/FileUtils.html)
 
